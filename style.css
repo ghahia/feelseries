@@ -1,5 +1,5 @@
 .black{
-    background-color: black;
+    background-image: url(http://i1218.photobucket.com/albums/dd410/francoalbero/PegatinaNubeAkatsuki.jpg?t=1296092952);
     }
 
 a{
@@ -18,3 +18,22 @@ border: dotted 1px red
 .negro{
 background-color: black
 }
+
+.nature {
+display:block;
+width:150px;
+height:150px;
+background:url(Aburrido.gif) no-repeat;
+cursor:pointer;
+position:relative}
+
+
+.widget-content {
+-moz-border-radius-bottomleft: 5px;
+-moz-border-radius-bottomright: 5px;
+background: #515151 url(http://2.bp.blogspot.com/_WoCJXgXotb8/Srrsc8rWNSI/AAAAAAAAABc/yq8azkr5zv4/s1600/widgetbg-1.png) repeat-x scroll left bottom;
+border-bottom: 1px solid 1d1d1d;
+border-left: 1px solid 1d1d1d;
+border-right: 1px solid 1d1d1d;
+padding: 10px;
+position: relative;

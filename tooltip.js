@@ -1,0 +1,1 @@
+$('aburrido.jpg').tooltip(options)

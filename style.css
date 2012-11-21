@@ -1,6 +1,14 @@
 .black{
-    background-image: url(http://i1218.photobucket.com/albums/dd410/francoalbero/PegatinaNubeAkatsuki.jpg?t=1296092952);
+    background-image: url(imagenes/fondo1.jpg);
     }
+body {
+background:transparent url(http://3.bp.blogspot.com/_WoCJXgXotb8/SrrsY0G_3FI/AAAAAAAAAAU/FGOXZBwWs0k/s1600/bodybg-5.gif) repeat scroll 0 0;
+font-family:'Lucida Grande',Verdana,Arial,Sans-Serif;
+font-size:12px;
+line-height:1.4em;
+color:#d8d8d8;
+text-align:center;
+}    
 
 a{
 color: #F60   
